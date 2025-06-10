@@ -1,11 +1,9 @@
-# science_fiction_LLM
 
 
 ## Introduction
 
-Project Minja Axelsson and Soumya Banerjee
 
-Using science fiction to reconceptualize AI using Large-Language Models (LLMs).
+Using Large-Language Models (LLMs) to design a spacecraft that is a low-cost Bracewell probe.
 
 ## Installation
 
@@ -45,9 +43,10 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 
 `deep_research_agent_ag2.ipynb`: DeepResearch agent to re-envision AI
 
-`deep_research_agent_ag2_lifeaswedonotknowit.ipynb`: DeepResearch agent to re-envision life as we do not know it
+`deep_research_agent_ag2_spacecraftdesign.ipynb`: DeepResearch agent 
 
-https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_ag2_lifeaswedonotknowit.ipynb
+
+https://github.com/neelsoumya/spacecraft_design_LLM/blob/main/deep_research_agent_ag2_spacecraftdesign.ipynb
 
 ## Acknowledgements
 
